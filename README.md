@@ -3,13 +3,13 @@
 This workshop uses similar code to the Week8 workshop, but now you will be integrating tests into the framework.
 Make sure you follow the instructions for Week 8 (below this) to get the initial packages installed (If you completed the Week 8 task then just follow the next steps).
 
-#### WEEK 10 INSTRUCTIONS - follow these after you have installed the packages for the Week 8 task (see further below).
+## WEEK 10 INSTRUCTIONS - follow these after you have installed the packages for the Week 8 task (see further below).
 
 For this task you will should have pip and python3 installed already. Run the following:
 
 - pip install pytest pytest-cov
 
-# Initialising the database
+### Initialising the database
 
 You should first initialise the database as follows:
 - python initialise_db.py
@@ -31,7 +31,7 @@ CREATE TABLE user (
 
 You should see that there are no users in the database. 
 
-# Run the website
+### Run the website
 
 You can run the website by typing:
 
@@ -45,7 +45,7 @@ You can now browse to the url http://localhost:8001/ and you should see the home
 
 
 
-#### WEEK 8 INSTRUCTIONS - follow these first if you did not complete the Week 8 task.
+## WEEK 8 INSTRUCTIONS - follow these first if you did not complete the Week 8 task.
 
 For this task you will need to have the following installed:
 
